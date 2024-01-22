@@ -18,5 +18,7 @@ https://arxiv.org/abs/2401.10891
 https://depth-anything.github.io/
 
 ### 🖼 Output
-
 ![Screenshot 2024-01-22 103057](https://github.com/camenduru/Depth-Anything-jupyter/assets/54370274/d9483949-5a80-4b7e-bac3-48f548770b12)
+
+### 🏢 Sponsor
+https://modelslab.com
