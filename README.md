@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Depth-Anything-jupyter/blob/main/Depth_Anything_jupyter.ipynb) | Depth_Anything_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Depth-Anything-jupyter/blob/main/Depth_Anything_Video_jupyter.ipynb) | Depth_Anything_Video_jupyter
 
 ### 🧬 Code
 https://github.com/LiheYoung/Depth-Anything
